@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+2/1/2018
 
 ## Student Name:  
-(First and Last Name)
+Rickey Riddley Jr.
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Learning about Version Control Systems and how they operate. Establish our own VCS using Git a popular version control system and using its functions. Also creating a Git account and linking it to our cloud 9 account.
 
+## View Project:
+https://exodia21.github.io/lesson3_VersionControl/
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learning about Version Controly Systems and why their important part of collaborative projects.
+2. Familiarize ourselves with a popular VCS known as Git.
+3. Unstanding the commands of Git and establish a Git vcs to link with our cloud 9 account.
 
