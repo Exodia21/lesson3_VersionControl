@@ -1,26 +1,22 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name:  Lesson 3 Version Control
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Course Title:
+Web Application Development
 
-To get you started, we included a small hello world application.
+## Assignment Date:  
+2/1/2018
 
-1) Open the hello-world.html file
+## Student Name:  
+Rickey Riddley Jr.
 
-2) Click on the Preview button to open a live preview pane
+## Project Description:
+Learning about Version Control Systems and how they operate. Establish our own VCS using Git a popular version control system and using its functions. Also creating a Git account and linking it to our cloud 9 account.
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+## View Project:
+https://exodia21.github.io/lesson3_VersionControl/
+## Lessons Learned in the Assignment:
+1. Learning about Version Controly Systems and why their important part of collaborative projects.
+2. Familiarize ourselves with a popular VCS known as Git.
+3. Unstanding the commands of Git and establish a Git vcs to link with our cloud 9 account.
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
